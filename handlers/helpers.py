@@ -1,4 +1,4 @@
-# (c) @ballicipluck & @AbirHasan2005
+# (c) @sahid_malik 
 
 from base64 import standard_b64encode, standard_b64decode
 
