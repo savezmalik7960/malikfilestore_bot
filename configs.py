@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @malik7983
 
 import os
 
@@ -34,7 +34,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 👥 **Support Group:** (https://t.me/malik_support_group)
 
-📢 **Updates Channel:** (https://t.me/malik_support_group)
+📢 **Updates Channel:** (https://t.me/malik_bots)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @sahid_malik
@@ -43,7 +43,7 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://t.me/+5rtboxVNTrQ5NzYx) (Join)
+[Donate Now](https://t.me/+5rtboxVNTrQ5NzYxuyh) (Join)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
@@ -58,3 +58,4 @@ How to Use Bot & it's Benefits??
 
 . creator 👉 @sahid_malik.
 """
+
